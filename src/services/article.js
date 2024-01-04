@@ -10,8 +10,8 @@ const options = {
         length: '3'
     },
     headers: {
-        'X-RapidAPI-Key': 'ae47ccf294mshb5260fb8eafb77bp1b4cedjsnd2d854fcd997',
-        'X-RapidAPI-Host': 'article-extractor-and-summarizer.p.rapidapi.com'
+        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Host': ''
     }
 };
 
